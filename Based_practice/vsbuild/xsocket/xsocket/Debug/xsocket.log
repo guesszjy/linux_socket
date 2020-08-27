@@ -1,0 +1,8 @@
+﻿D:\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  dllmain.cpp
+  pch.cpp
+  XTcp.cpp
+  XUdp.cpp
+  正在生成代码...
+    正在创建库 ../../../lib\xsocket.lib 和对象 ../../../lib\xsocket.exp
+  xsocket.vcxproj -> \\172.18.95.194\zjy\linux_socket\Based_practice\vsbuild\xsocket\xsocket\../../../lib\xsocket.dll
